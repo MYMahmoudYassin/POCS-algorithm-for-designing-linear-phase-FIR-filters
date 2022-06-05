@@ -1,4 +1,4 @@
-# POCS-algorithm-for-designing-linear-phase-FIR-filters
+# POCS algorithm for designing linear phase FIR filters
 ![image](https://user-images.githubusercontent.com/106708838/172068289-adc86585-af91-4261-8542-7fc6236260fa.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
